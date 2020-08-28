@@ -11,6 +11,7 @@ namespace Sanch.NewApp
         static void Main(string[] args)
         {
             Console.WriteLine("Привет");
+            Console.WriteLine("Привет");
             Console.ReadLine();
         }
     }
